@@ -1,0 +1,28 @@
+2018-01-12 01:39:41 DEBUG LoggerExample:17 - This is debug : mkyong
+2018-01-12 01:39:41 INFO  LoggerExample:21 - This is info : mkyong
+2018-01-12 01:39:41 WARN  LoggerExample:24 - This is warn : mkyong
+2018-01-12 01:39:41 ERROR LoggerExample:25 - This is error : mkyong
+2018-01-12 01:39:41 FATAL LoggerExample:26 - This is fatal : mkyong
+2018-01-12 01:40:05 DEBUG LoggerExample:17 - This is debug : mayur
+2018-01-12 01:40:05 INFO  LoggerExample:21 - This is info : mayur
+2018-01-12 01:40:05 WARN  LoggerExample:24 - This is warn : mayur
+2018-01-12 01:40:05 ERROR LoggerExample:25 - This is error : mayur
+2018-01-12 01:40:05 FATAL LoggerExample:26 - This is fatal : mayur
+2018-01-12 01:40:20 ERROR LoggerExample2:16 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.log4j.LoggerExample2.divide(LoggerExample2.java:23)
+	at com.log4j.LoggerExample2.main(LoggerExample2.java:14)
+2018-01-12 04:00:24 DEBUG LoggerExample:17 - This is debug : mayur
+2018-01-12 04:00:24 INFO  LoggerExample:21 - This is info : mayur
+2018-01-12 04:00:24 WARN  LoggerExample:24 - This is warn : mayur
+2018-01-12 04:00:24 ERROR LoggerExample:25 - This is error : mayur
+2018-01-12 04:00:24 FATAL LoggerExample:26 - This is fatal : mayur
+2018-01-12 04:05:28 DEBUG LoggerExample:17 - This is debug : mayur
+2018-01-12 04:05:28 INFO  LoggerExample:21 - This is info : mayur
+2018-01-12 04:05:28 WARN  LoggerExample:24 - This is warn : mayur
+2018-01-12 04:05:28 ERROR LoggerExample:25 - This is error : mayur
+2018-01-12 04:05:28 FATAL LoggerExample:26 - This is fatal : mayur
+2018-01-12 04:06:19 ERROR LoggerExample2:16 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.log4j.LoggerExample2.divide(LoggerExample2.java:23)
+	at com.log4j.LoggerExample2.main(LoggerExample2.java:14)
